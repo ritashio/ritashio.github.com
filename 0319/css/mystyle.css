@@ -1,0 +1,6 @@
+body img {
+    border-radius: 15px;
+    background-color: #672900;
+    -webkit-box-shadow: 12px 12px;
+    box-shadow: 12px 12px;
+}
